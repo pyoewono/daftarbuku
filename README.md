@@ -1,4 +1,4 @@
-# daftarbuku
+# DAFTAR BUKU - PROYEK PERTAMA PYTHON
 Test penggunaan GIT
 
 ##Menggunakan GIT dengan Command Line

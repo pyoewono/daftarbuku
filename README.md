@@ -6,4 +6,8 @@ Test penggunaan GIT
 - Upload ke Github
 - Buat repository
 - Copy alamat SSH
-- Cole dengan perintah git clone <alamat ssh>
+- Clone dengan perintah git clone <alamat ssh>
+- Ubah file
+- Tambahkan ke daftar file yang diubah dengan git add
+- Simpan perubahan dengan git Commit
+- Kirim perubahan ke github dengan git push
